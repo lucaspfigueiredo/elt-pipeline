@@ -1,5 +1,7 @@
 # ELT Pipeline Project
 
+[![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
+
 ## About
 
 Personal project using data engineering concepts, to get apartments data for further analysis.
