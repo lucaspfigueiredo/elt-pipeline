@@ -27,7 +27,7 @@ Buying an apartment is a big deal, specially because of the price and all the va
 
 Clone the project to your desired location:
 
-    $ git clone https://github.com/lucaspfigueiredo/
+    $ git clone https://github.com/lucaspfigueiredo/elt-pipeline
 
 Execute the following command that will create the .env file containig the Airflow UID needed by docker-compose:
 
