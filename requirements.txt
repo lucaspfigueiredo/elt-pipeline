@@ -1,0 +1,10 @@
+apache-airflow
+apache-airflow-providers-amazon
+apache-airflow-providers-apache-spark
+apache-airflow-providers-ftp
+apache-airflow-providers-http
+apache-airflow-providers-imap
+apache-airflow-providers-sqlite
+backoff
+pyspark
+requests
